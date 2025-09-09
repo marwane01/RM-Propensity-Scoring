@@ -1,0 +1,16 @@
+# Core
+pandas==2.3.0
+numpy==2.0.2
+scikit-learn==1.6.1
+scipy==1.13.1
+joblib==1.5.1
+
+# Modeling / Explainability
+shap==0.48.0
+xgboost==2.1.1
+
+# Imbalance handling
+imbalanced-learn==0.12.4
+
+# Plots
+matplotlib==3.9.4
