@@ -1,0 +1,27 @@
+# Data and artifacts
+data/
+artifacts/
+*.csv
+*.txt
+*.parquet
+*.joblib
+*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*.ipynb-retry.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
